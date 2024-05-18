@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.happybirthday.MainActivity">
+
+    <ImageView
+        android:src="@drawable/androidparty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:textSize="36sp"
+        android:textColor="@android:color/white"
+        android:fontFamily="sans-serif-light"
+        android:text="Happy Birthday, Love :-*"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:textSize="36sp"
+        android:textColor="@android:color/white"
+        android:fontFamily="sans-serif-light"
+        android:text="From, Martin :-*" />
+
+</RelativeLayout>

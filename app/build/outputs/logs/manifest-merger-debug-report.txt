@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:3:11-54
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\LandLMM\.android\build-cache\6384a14ef377d859e20d6f2db62002bbfcdd0cc8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\LandLMM\.android\build-cache\db45855f5c1c4e4e50745f8068883029c3b89a7e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\LandLMM\.android\build-cache\2c87ca594921c655fa28769290005f09e73c5fe5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\LandLMM\.android\build-cache\644c3733490629b17af0dc899a411322efa80201\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\LandLMM\.android\build-cache\d6fcd85f07dc00fbf6c23039f8f50535b33ed93f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\LandLMM\.android\build-cache\fecda10ccb5ae7147c938e7213a2a85e03009c2a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\LandLMM\.android\build-cache\dac1629b9c252dd9ea13c738d18e8583e09b7d94\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\LandLMM\.android\build-cache\ae472160fe3c144d50bf9f49cb7492046b3aed75\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\LandLMM\.android\build-cache\356e74aceb475aeae6a87f61954ff1841e6c6893\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.happybirthday.MainActivity
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\LandLMM\.android\build-cache\6384a14ef377d859e20d6f2db62002bbfcdd0cc8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\LandLMM\.android\build-cache\db45855f5c1c4e4e50745f8068883029c3b89a7e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\LandLMM\.android\build-cache\2c87ca594921c655fa28769290005f09e73c5fe5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\LandLMM\.android\build-cache\644c3733490629b17af0dc899a411322efa80201\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\LandLMM\.android\build-cache\d6fcd85f07dc00fbf6c23039f8f50535b33ed93f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\LandLMM\.android\build-cache\fecda10ccb5ae7147c938e7213a2a85e03009c2a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\LandLMM\.android\build-cache\dac1629b9c252dd9ea13c738d18e8583e09b7d94\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\LandLMM\.android\build-cache\ae472160fe3c144d50bf9f49cb7492046b3aed75\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\LandLMM\.android\build-cache\356e74aceb475aeae6a87f61954ff1841e6c6893\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\LandLMM\.android\build-cache\6384a14ef377d859e20d6f2db62002bbfcdd0cc8\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\HappyBirthday\app\src\main\AndroidManifest.xml

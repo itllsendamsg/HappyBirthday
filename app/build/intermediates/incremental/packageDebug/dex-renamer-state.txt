@@ -1,0 +1,7 @@
+#Wed Apr 12 00:34:06 CEST 2017
+base.0=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_34bcf4c096470985074eec4ad9cdc218319edcad
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eebf14118c3185165e9b4becbe4ffaeee90663d9\\classes.dex
+base.1=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eebf14118c3185165e9b4becbe4ffaeee90663d9
+file.0=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_34bcf4c096470985074eec4ad9cdc218319edcad\\classes.dex
